@@ -20,3 +20,7 @@ console.log(division);// 5
 let modulo = edad % 4;
 console.log(modulo);// 3
 console.log(`hola soy ${nombre} y tengo ${edad} años y vivo en ${pais}, soy estudiante: ${esEstudiante} y estoy aprendiendo javascript.`);
+console.log(typeof NaN + 8); 
+console.log(typeof "");
+console.log("comparation == :", 5 == "5");
+console.log("comparation === :", 5 === "5");
